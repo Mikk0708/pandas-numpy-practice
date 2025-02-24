@@ -7,7 +7,7 @@ print("Pandas 已成功安裝 版本：", pd.__version__)
 import numpy as np
 print("Numpy 已成功安裝 版本：", np.__version__)
 
-#numpy學習 利用陣列代替列表 處理多維度資料
+#利用陣列代替列表 處理多維度資料
 #根據列表list 建立ndarray物件
 np_array = np.array([1,2,3,4])
 print(np_array) #把資料印出來
